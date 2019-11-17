@@ -1,4 +1,4 @@
-# My personal website
+# Personal website
 
-Author: Rafael Cardoso Paranhos
+Author: Rafael Cardoso Paranhos\
 Creation: 17/11/2019
